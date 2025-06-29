@@ -9,7 +9,7 @@ from datetime import datetime
 # CONFIGURATION
 
 TARGET_DIR = r"C:\Users\YourUsername\Downloads"  # Change this to your target folder
-DAYS_OLD_THRESHOLD = 30  # Number of days to consider a file as old
+DAYS_OLD_THRESHOLD = 120  # Number of days to consider a file as old
 ORGANIZE_BY_TYPE = True  # Whether to organize files by their extension type
 
 # Specify the folder where the log file will be saved
