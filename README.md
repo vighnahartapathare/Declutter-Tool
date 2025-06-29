@@ -36,3 +36,11 @@ Install dependencies with:
 
 ```bash
 pip install send2trash
+```
+
+## Running the Code
+
+Run the script with Python:
+
+```bash
+python declutter_tool.py
